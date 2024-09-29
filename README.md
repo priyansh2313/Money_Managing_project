@@ -9,6 +9,9 @@ Target Users: Individuals in India who primarily use UPI for their transactions 
 
 
 
+
+
+
 Core Features:
 
 UPI transaction upload (manual or CSV).
@@ -16,6 +19,12 @@ Automatic categorization of expenses (Groceries, Rent, Utilities, etc.).
 Monthly budget recommendations based on spending patterns.
 Expense tracking (visualization, trends, etc.).
 Savings goal management (set and track goals).
+
+
+
+
+
+
 Optional Features (Future Enhancements):
 
 Spending alerts and notifications.
@@ -26,11 +35,19 @@ Predictions of future spending patterns.
 
 
 
+
+
+
 Backend:
 
 Python (Flask/Django for API development).
 Pandas, Scikit-learn, Prophet for data analysis and modeling.
 PostgreSQL/MySQL for the database.
+
+
+
+
+
 
 
 Frontend:
